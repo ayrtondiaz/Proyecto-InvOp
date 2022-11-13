@@ -1,4 +1,4 @@
-# Proyectos Investigación Operativa
+# Proyecto Investigación Operativa
 ### Integrantes: Diaz Ayrton , Lontoya Leo
 ### Ingenieria en Informatica  2022
 
