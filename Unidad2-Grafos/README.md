@@ -1,5 +1,5 @@
 
-# Unidad 1 Teoria de los Juegos
+# Unidad 2 Modelo de Redes
 ## Árbol de Mínima Expansión
 Este árbol vincula los nodos de una red valiéndose de la longitud mínima total
 de las ramas de conexión. Una aplicación común se presenta en la
